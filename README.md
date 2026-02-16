@@ -62,13 +62,24 @@ dt.predict(pd.DataFrame([[5,6]], columns=x.columns))
 <img width="464" height="347" alt="image" src="https://github.com/user-attachments/assets/c2acfeb3-d632-43a9-9466-f0e704605281" />
 
 
+
+
 <img width="489" height="278" alt="image" src="https://github.com/user-attachments/assets/b78bf784-f8c0-4426-8e16-b5beafe74279" />
+
+
+
 
 
 <img width="305" height="258" alt="image" src="https://github.com/user-attachments/assets/9fed601e-7295-4c67-8ce7-f2b9bb432b07" />
 
 
+
+
+
 <img width="552" height="374" alt="image" src="https://github.com/user-attachments/assets/5d81caa9-2d95-4334-9c9e-3768002d7b0a" />
+
+
+
 
 
 <img width="559" height="158" alt="image" src="https://github.com/user-attachments/assets/697106c8-6b1b-4712-888f-3c52e42ce3a9" />
