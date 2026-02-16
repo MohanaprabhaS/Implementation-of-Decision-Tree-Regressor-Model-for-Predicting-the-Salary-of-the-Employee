@@ -70,6 +70,12 @@ dt.predict(pd.DataFrame([[5,6]], columns=x.columns))
 
 
 
+
+
+
+
+
+
 <img width="305" height="258" alt="image" src="https://github.com/user-attachments/assets/9fed601e-7295-4c67-8ce7-f2b9bb432b07" />
 
 
